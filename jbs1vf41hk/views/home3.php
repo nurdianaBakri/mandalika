@@ -860,7 +860,7 @@
               About Us
             </h3>
             <p>
-              Lorem ipsum dolor sit amet, consectetur adipisicing elit. Omnis veritatis eius porro modi hic. Lorem ipsum dolor sit amet, consectetur adipisicing elit.
+              Mandalika is one of the IT Solutions company in Indonesia. We deliver Advisory Service, Application Development, Training & Certification to your IT Solution. 
             </p> 
           </div>
           <!-- Footer Widget Ends -->
