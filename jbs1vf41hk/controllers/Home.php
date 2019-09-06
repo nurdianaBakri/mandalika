@@ -9,17 +9,23 @@ class Home extends CI_Controller {
     }
  
 	public function index()
-	{
+	{ 
 		$data['title']="WELCOME!";
-		$this->load->view('user-include/header', $data);
-		$this->load->view('home', $data);
-		$this->load->view('user-include/footer'); 
+		$this->load->view('home3', $data); 
 	}
 
 	public function index2()
 	{
 		$data['title']="WELCOME!";
 		$this->load->view('home2', $data);
+	}
+
+	public function index3()
+	{
+		$data['title']="WELCOME!";
+		$this->load->view('user-include/header', $data);
+		$this->load->view('home', $data);
+		$this->load->view('user-include/footer'); 
 	}
  
 }
